@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning and building projects
 - 🌱 I’m currently learning JS React 
 - 💞️ I’m looking to collaborate on projects using JS CSS 
-- 📫 you can reach me on https://twitter.com/Devscript_
+- 📫 you can reach me on https://twitter.com/Devscript_?t=xzwB3pfVeZRLN4LE0bUJUg&s=09
 
 <!---
 Fredaplies/Fredaplies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
